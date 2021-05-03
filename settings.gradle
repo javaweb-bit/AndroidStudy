@@ -1,0 +1,5 @@
+include ':Database'
+include ':Dialog'
+include ':Event'
+include ':app'
+rootProject.name = "AndroidStudy"
