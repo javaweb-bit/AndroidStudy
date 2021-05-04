@@ -1,3 +1,6 @@
+include ':actionbarmenu'
+include ':adapterview'
+include ':tab'
 include ':Database'
 include ':Dialog'
 include ':Event'
