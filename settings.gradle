@@ -1,3 +1,6 @@
+include ':googlemap'
+include ':location'
+include ':fragment'
 include ':actionbarmenu'
 include ':adapterview'
 include ':tab'
